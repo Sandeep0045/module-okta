@@ -1,24 +1,24 @@
 variable "first_name" {
-#  default = "pragati"
+  default = "pragati"
 }
 
 variable "last_name" {
-#  default = "singh"
+  default = "singh"
 }
 
 variable "login" {
-#  default = "pragati@gmail.com"
+  default = "pragati@gmail.com"
 }
 
 variable "email" {
-#  default = "pragati@gmail.com"
+  default = "pragati@gmail.com"
 }
  
 variable "name" {
-#  default = "pragati"
+  default = "pragati"
 }
 
 variable "description" {
-#  default = "pragati group"
+  default = "pragati group"
 
 }
