@@ -1,5 +1,5 @@
 variable "first_name" {
-  default = "pragati"
+  default = "anu"
 }
 
 variable "last_name" {
@@ -7,18 +7,18 @@ variable "last_name" {
 }
 
 variable "login" {
-  default = "pragati@gmail.com"
+  default = "anu@gmail.com"
 }
 
 variable "email" {
-  default = "pragati@gmail.com"
+  default = "anu@gmail.com"
 }
  
 variable "name" {
-  default = "pragati"
+  default = "anu"
 }
 
 variable "description" {
-  default = "pragati group"
+  default = "anu group"
 
 }
