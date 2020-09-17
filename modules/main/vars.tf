@@ -1,24 +1,24 @@
 variable "first_name" {
-  default = "group12"
+  default = "group123"
 }
 
 variable "last_name" {
-  default = "group12"
+  default = "group123"
 }
 
 variable "login" {
-  default = "group12@gmail.com"
+  default = "group123@gmail.com"
 }
 
 variable "email" {
-  default = "group12@gmail.com"
+  default = "group123@gmail.com"
 }
  
 variable "name" {
-  default = "group12"
+  default = "group123"
 }
 
 variable "description" {
-  default = " group12"
+  default = " group123"
 
 }
