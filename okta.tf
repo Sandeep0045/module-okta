@@ -1,4 +1,4 @@
 module "oktamodule" {
-  source = "/modules/main"
+  source = "./modules/main/"
 
 }
