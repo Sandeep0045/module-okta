@@ -1,24 +1,24 @@
 variable "first_name" {
-  default = "anu"
+  default = "group"
 }
 
 variable "last_name" {
-  default = "singh"
+  default = "group"
 }
 
 variable "login" {
-  default = "anu@gmail.com"
+  default = "group@gmail.com"
 }
 
 variable "email" {
-  default = "anu@gmail.com"
+  default = "group@gmail.com"
 }
  
 variable "name" {
-  default = "anu"
+  default = "group"
 }
 
 variable "description" {
-  default = "anu group"
+  default = " group"
 
 }
