@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket = "okta-statefiles"
+    bucket = "group"
     key    = "remotedemo.tfstate"
     region = "us-west-2"
     access_key = "AKIAYHUP6XMKLCIX2MHN"
